@@ -4,5 +4,5 @@
    <name>SCORE 2.5</name>
    <tag></tag>
    <UUID>53b1adee-3447-4f64-8f74-af0bda82a44d</UUID>
-   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeout>0</pageLoadTimeout>
 </Project>

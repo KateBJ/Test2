@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Buttons - Button menu no link (en) 722.25</name>
+   <name>Score Button-toolbar</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>bc86b0bd-0b3e-4e4d-9433-881a983ed65e</testCaseGuid>
+   <testCaseGuid>1f078634-635c-4adf-bb7a-23d731f23561</testCaseGuid>
 </TestCaseEntity>

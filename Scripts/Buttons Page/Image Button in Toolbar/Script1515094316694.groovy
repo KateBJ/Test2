@@ -19,33 +19,15 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.openBrowser('https://www.katalon.com/')
+WebUI.openBrowser('http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components')
 
-def driver = DriverFactory.getWebDriver()
+WebUI.verifyTextNotPresent('*Server Error in*', false)
 
-String baseUrl = 'https://www.katalon.com/'
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('Page_Button Components (2)/Image Button - Toolbar/Image Button Toolbar'), 
+    0)
 
-selenium = new WebDriverBackedSelenium(driver, baseUrl)
+WebUiBuiltInKeywords.verifyElementClickable(findTestObject('Page_Button Components (2)/Image Button - Toolbar/Image Button Toolbar'), 
+    FailureHandling.STOP_ON_FAILURE)
 
-selenium.open('http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components')
-
-assertFalse(selenium.isTextPresent('*Server Error in*'))
-
-verifyTrue(selenium.isElementPresent('css=div.page-wrapper div.container div.score-column1 div.score-center div.score-button-toolbar div.score-button-group'))
-
-verifyTrue(selenium.isElementPresent('//div/div[2]/div/div/div/div[2]/a[1]'))
-
-verifyTrue(selenium.isElementPresent('//div/div[2]/div/div/div/div[2]/a[2]'))
-
-verifyEquals('Button 2', selenium.getText('//div/div[2]/div/div/div/div[2]/a[1]'))
-
-verifyEquals('Button 3', selenium.getText('//div/div[2]/div/div/div/div[2]/a[2]'))
-
-verifyTrue(selenium.isElementPresent('css=div.score-button-toolbar div.score-button-group a.score-button[href="/selenium-kitchen-sink.aspx"]'))
-
-verifyTrue(selenium.isElementPresent('css=div.score-button-toolbar div.score-button-group a.[\'Button 3\']score-button[href="/selenium-kitchen-sink.aspx"]'))
-
-WebUI.openBrowser('s722.bootstrapui.v25.scoreqa.brainjocks.com')
-
-WebUI.verifyElementNotPresent(findTestObject(null), 0)
+WebUiBuiltInKeywords.closeBrowser()
 
