@@ -18,25 +18,23 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKeywords
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
-import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components')
 
-WebUI.navigateToUrl('http://s722.bootstrapui.v25.scoreqa.brainjocks.com/selenium-kitchen-sink/components-with-behaviors.aspx')
+WebUI.verifyTextNotPresent('*Server Error in*', false)
 
-WebUI.verifyElementNotVisible(findTestObject('Page_Components With Behaviors/Modal'))
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('Page_Button Components (2)/Composite Link -Image/Composite Link with image'), 
+    0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Components With Behaviors/Open Modal Button'), 0)
+WebUiBuiltInKeywords.verifyElementClickable(findTestObject('Page_Button Components (2)/Composite Link -Image/Composite Link with image'))
 
-WebUI.click(findTestObject('Page_Components With Behaviors/a_Open Modal'))
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('Page_Button Components (2)/Composite Link -Image/Error Image'), 
+    0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Components With Behaviors/a_Close'), 0)
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('Page_Button Components (2)/Composite Link -Image/Composite link button Dont click me'), 
+    0)
 
-WebUI.verifyElementVisible(findTestObject('Page_Components With Behaviors/Modal'), FailureHandling.STOP_ON_FAILURE)
+WebUiBuiltInKeywords.verifyElementClickable(findTestObject('Page_Button Components (2)/Composite Link -Image/Composite link button Dont click me'))
 
-WebUI.click(findTestObject('Page_Components With Behaviors/a_Close'))
-
-WebUI.verifyElementNotVisible(findTestObject('Page_Components With Behaviors/Modal'))
-
-WebUI.closeBrowser()
+WebUiBuiltInKeywords.closeBrowser()
 

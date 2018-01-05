@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Buttons -  Button (en) 722</name>
+   <name>Split Button Menu</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c22060a2-66f8-4aca-a512-c3ce384397e7</testCaseGuid>
+   <testCaseGuid>20ebd178-73aa-499f-a5c0-ef6380ae58ce</testCaseGuid>
 </TestCaseEntity>

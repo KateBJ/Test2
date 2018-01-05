@@ -18,25 +18,15 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKeywords
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
-import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components')
 
-WebUI.navigateToUrl('http://s722.bootstrapui.v25.scoreqa.brainjocks.com/selenium-kitchen-sink/components-with-behaviors.aspx')
+WebUI.verifyTextNotPresent('*Server Error in*', false)
 
-WebUI.verifyElementNotVisible(findTestObject('Page_Components With Behaviors/Modal'))
+'Verify if Button is present; Verify Button text as "Button 1"; Verify button link'
+WebUI.verifyElementPresent(findTestObject('Page_Button Components (2)/Score Button/Button 1'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Components With Behaviors/Open Modal Button'), 0)
-
-WebUI.click(findTestObject('Page_Components With Behaviors/a_Open Modal'))
-
-WebUI.verifyElementPresent(findTestObject('Page_Components With Behaviors/a_Close'), 0)
-
-WebUI.verifyElementVisible(findTestObject('Page_Components With Behaviors/Modal'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Page_Components With Behaviors/a_Close'))
-
-WebUI.verifyElementNotVisible(findTestObject('Page_Components With Behaviors/Modal'))
+WebUiBuiltInKeywords.verifyElementClickable(findTestObject('Page_Button Components (2)/Score Button/Button 1'))
 
 WebUI.closeBrowser()
 

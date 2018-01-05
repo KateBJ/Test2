@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Close</name>
+   <name>Button 1</name>
    <tag></tag>
-   <elementGuidId>8de580f5-dbdf-4443-8ce3-e280057c5c6e</elementGuidId>
+   <elementGuidId>714e1593-c75f-45ba-b5e5-f4830dac9002</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.page-wrapper div.container div.score-column1 div.score-center div.score-button-toolbar a.score-button</value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>score-button btn-danger score-button btn-danger</value>
+      <value>score-button score-button</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-ux-module</name>
       <type>Main</type>
@@ -37,15 +43,22 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>href</name>
       <type>Main</type>
-      <value>Close</value>
+      <value>/en/selenium-kitchen-sink.aspx</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Button 1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modal-93c7a187-1720-403c-8cb7-d7cb16edddae&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer score-call-to-action&quot;]/a[@class=&quot;score-button btn-danger score-button btn-danger&quot;]</value>
+      <value>/html/body/div/div[1]/div/div/a[1]</value>
    </webElementProperties>
 </WebElementEntity>
