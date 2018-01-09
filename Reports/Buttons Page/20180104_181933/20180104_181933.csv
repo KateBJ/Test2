@@ -1,0 +1,77 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Buttons Page,Firefox 57.0,,2018-01-04 18:19:38,2018-01-04 18:20:20,42.202s,PASSED
+,,,,,,
+Test Cases/Buttons Page/Button Group,Firefox 57.0,,2018-01-04 18:19:38,2018-01-04 18:19:47,8.974s,PASSED
+openBrowser,Firefox 57.0,,2018-01-04 18:19:39,2018-01-04 18:19:46,7.751s,PASSED
+verifyTextNotPresent,Firefox 57.0,,2018-01-04 18:19:46,2018-01-04 18:19:47,0.180s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:19:47,2018-01-04 18:19:47,0.067s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:19:47,2018-01-04 18:19:47,0.042s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:19:47,2018-01-04 18:19:47,0.051s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:19:47,2018-01-04 18:19:47,0.027s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:19:47,2018-01-04 18:19:47,0.045s,PASSED
+closeBrowser,Firefox 57.0,,2018-01-04 18:19:47,2018-01-04 18:19:47,0.231s,PASSED
+,,,,,,
+Test Cases/Buttons Page/Button-Menu-no-link,Firefox 57.0,,2018-01-04 18:19:47,2018-01-04 18:19:53,5.860s,PASSED
+openBrowser,Firefox 57.0,,2018-01-04 18:19:47,2018-01-04 18:19:52,4.835s,PASSED
+verifyTextNotPresent,Firefox 57.0,,2018-01-04 18:19:52,2018-01-04 18:19:52,0.073s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:19:52,2018-01-04 18:19:52,0.021s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:19:52,2018-01-04 18:19:52,0.018s,PASSED
+click,Firefox 57.0,,2018-01-04 18:19:52,2018-01-04 18:19:53,0.281s,PASSED
+verifyElementVisible,Firefox 57.0,,2018-01-04 18:19:53,2018-01-04 18:19:53,0.065s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:19:53,2018-01-04 18:19:53,0.021s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:19:53,2018-01-04 18:19:53,0.028s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:19:53,2018-01-04 18:19:53,0.023s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:19:53,2018-01-04 18:19:53,0.027s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:19:53,2018-01-04 18:19:53,0.024s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:19:53,2018-01-04 18:19:53,0.030s,PASSED
+closeBrowser,Firefox 57.0,,2018-01-04 18:19:53,2018-01-04 18:19:53,0.192s,PASSED
+,,,,,,
+Test Cases/Buttons Page/Composite Link with Image,Firefox 57.0,,2018-01-04 18:19:53,2018-01-04 18:19:58,4.847s,PASSED
+openBrowser,Firefox 57.0,,2018-01-04 18:19:53,2018-01-04 18:19:57,4.349s,PASSED
+verifyTextNotPresent,Firefox 57.0,,2018-01-04 18:19:57,2018-01-04 18:19:58,0.083s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:19:58,2018-01-04 18:19:58,0.017s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:19:58,2018-01-04 18:19:58,0.026s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:19:58,2018-01-04 18:19:58,0.020s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:19:58,2018-01-04 18:19:58,0.029s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:19:58,2018-01-04 18:19:58,0.032s,PASSED
+closeBrowser,Firefox 57.0,,2018-01-04 18:19:58,2018-01-04 18:19:58,0.160s,PASSED
+,,,,,,
+Test Cases/Buttons Page/Image Button in Toolbar,Firefox 57.0,,2018-01-04 18:19:58,2018-01-04 18:20:03,5.013s,PASSED
+openBrowser,Firefox 57.0,,2018-01-04 18:19:58,2018-01-04 18:20:03,4.407s,PASSED
+verifyTextNotPresent,Firefox 57.0,,2018-01-04 18:20:03,2018-01-04 18:20:03,0.137s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:20:03,2018-01-04 18:20:03,0.021s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:20:03,2018-01-04 18:20:03,0.026s,PASSED
+closeBrowser,Firefox 57.0,,2018-01-04 18:20:03,2018-01-04 18:20:03,0.216s,PASSED
+,,,,,,
+Test Cases/Buttons Page/Score Button-toolbar,Firefox 57.0,,2018-01-04 18:20:03,2018-01-04 18:20:08,5.042s,PASSED
+openBrowser,Firefox 57.0,,2018-01-04 18:20:03,2018-01-04 18:20:08,4.561s,PASSED
+verifyTextNotPresent,Firefox 57.0,,2018-01-04 18:20:08,2018-01-04 18:20:08,0.058s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:20:08,2018-01-04 18:20:08,0.014s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:20:08,2018-01-04 18:20:08,0.021s,PASSED
+closeBrowser,Firefox 57.0,,2018-01-04 18:20:08,2018-01-04 18:20:08,0.197s,PASSED
+,,,,,,
+Test Cases/Buttons Page/Score Button,Firefox 57.0,,2018-01-04 18:20:08,2018-01-04 18:20:13,4.638s,PASSED
+openBrowser,Firefox 57.0,,2018-01-04 18:20:08,2018-01-04 18:20:12,4.121s,PASSED
+verifyTextNotPresent,Firefox 57.0,,2018-01-04 18:20:12,2018-01-04 18:20:12,0.068s,PASSED
+verifyElementPresent,Firefox 57.0,"Verify if Button is present; Verify Button text as \""Button 1\""; Verify button link",2018-01-04 18:20:12,2018-01-04 18:20:13,0.015s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:20:13,2018-01-04 18:20:13,0.030s,PASSED
+closeBrowser,Firefox 57.0,,2018-01-04 18:20:13,2018-01-04 18:20:13,0.195s,PASSED
+,,,,,,
+Test Cases/Buttons Page/Split Button Menu,Firefox 57.0,,2018-01-04 18:20:13,2018-01-04 18:20:20,6.943s,PASSED
+openBrowser,Firefox 57.0,,2018-01-04 18:20:13,2018-01-04 18:20:19,5.510s,PASSED
+verifyTextNotPresent,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.063s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.015s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.030s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.018s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.035s,PASSED
+click,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.264s,PASSED
+verifyElementVisible,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.036s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.014s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.020s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.016s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.045s,PASSED
+verifyElementPresent,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.033s,PASSED
+verifyElementClickable,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.023s,PASSED
+click,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:19,0.231s,PASSED
+verifyElementNotVisible,Firefox 57.0,,2018-01-04 18:20:19,2018-01-04 18:20:20,0.040s,PASSED
+closeBrowser,Firefox 57.0,,2018-01-04 18:20:20,2018-01-04 18:20:20,0.203s,PASSED

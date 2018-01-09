@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Buttons Page" time="42" tests="7" failures="0" errors="0">
+   <testsuite name="Buttons Page" tests="7" failures="0" errors="0" time="42" timestamp="2018-01-04 18:19:38" hostname="kateserebryakova - kates-mbp" id="Test Suites/Buttons Page">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/kateserebryakova/Desktop/Katalon - Score/SCORE 2.5/Reports/Buttons Page/20180104_181933"/>
+         <property name="logFiles" value="/Users/kateserebryakova/Desktop/Katalon - Score/SCORE 2.5/Reports/Buttons Page/20180104_181933/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="kateserebryakova - kates-mbp"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.2.0.1"/>
+         <property name="browser" value="Firefox 57.0"/>
+         <property name="hostAddress" value="192.168.1.71"/>
+         <property name="sessionId" value="bbe0080e-d61f-394d-a0d0-c345ccdd6e24"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Buttons Page/Button Group" classname="Test Cases/Buttons Page/Button Group" status="PASSED">
+         <system-out><![CDATA[2018-01-04 18:19:38 - [TEST_CASE][PASSED] - Test Cases/Buttons Page/Button Group: Test Cases/Buttons Page/Button Group
+
+2018-01-04 18:19:39 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:19:46 - [MESSAGE][PASSED] - Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:19:46 - [TEST_STEP][PASSED] - verifyTextNotPresent: Text '*Server Error in*' is not present on page
+
+2018-01-04 18:19:47 - [MESSAGE][PASSED] - Text '*Server Error in*' is not present on page
+
+2018-01-04 18:19:47 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Button Group/Buttons Toolbar' is present
+
+2018-01-04 18:19:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:19:47 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Group/Buttons Toolbar' is present
+
+2018-01-04 18:19:47 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Button Group/a_Button 2' is present
+
+2018-01-04 18:19:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:19:47 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Group/a_Button 2' is present
+
+2018-01-04 18:19:47 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Button Group/a_Button 2' is clickable
+
+2018-01-04 18:19:47 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Group/a_Button 2' is clickable
+
+2018-01-04 18:19:47 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Button Group/a_Button 3' is present
+
+2018-01-04 18:19:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:19:47 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Group/a_Button 3' is present
+
+2018-01-04 18:19:47 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Button Group/a_Button 3' is clickable
+
+2018-01-04 18:19:47 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Group/a_Button 3' is clickable
+
+2018-01-04 18:19:47 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-01-04 18:19:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Buttons Page/Button-Menu-no-link" classname="Test Cases/Buttons Page/Button-Menu-no-link" status="PASSED">
+         <system-out><![CDATA[2018-01-04 18:19:47 - [TEST_CASE][PASSED] - Test Cases/Buttons Page/Button-Menu-no-link: Test Cases/Buttons Page/Button-Menu-no-link
+
+2018-01-04 18:19:47 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:19:52 - [MESSAGE][PASSED] - Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:19:52 - [TEST_STEP][PASSED] - verifyTextNotPresent: Text '*Server Error in*' is not present on page
+
+2018-01-04 18:19:52 - [MESSAGE][PASSED] - Text '*Server Error in*' is not present on page
+
+2018-01-04 18:19:52 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/button_Text text text' is present
+
+2018-01-04 18:19:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:19:52 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/button_Text text text' is present
+
+2018-01-04 18:19:52 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button arrow' is present
+
+2018-01-04 18:19:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:19:52 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button arrow' is present
+
+2018-01-04 18:19:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button arrow' is clicked on
+
+2018-01-04 18:19:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button arrow' is clicked on
+
+2018-01-04 18:19:53 - [TEST_STEP][PASSED] - verifyElementVisible: Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/text - text_dropdown-menu' is visible
+
+2018-01-04 18:19:53 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/text - text_dropdown-menu' is visible
+
+2018-01-04 18:19:53 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button Button Menu Link 1' is present
+
+2018-01-04 18:19:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:19:53 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button Button Menu Link 1' is present
+
+2018-01-04 18:19:53 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button Button Menu Link 1' is clickable
+
+2018-01-04 18:19:53 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button Button Menu Link 1' is clickable
+
+2018-01-04 18:19:53 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button Button Menu Link 2' is present
+
+2018-01-04 18:19:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:19:53 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button Button Menu Link 2' is present
+
+2018-01-04 18:19:53 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button Button Menu Link 2' is clickable
+
+2018-01-04 18:19:53 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button Button Menu Link 2' is clickable
+
+2018-01-04 18:19:53 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button Button Menu Link 3' is present
+
+2018-01-04 18:19:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:19:53 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button Button Menu Link 3' is present
+
+2018-01-04 18:19:53 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button Button Menu Link 3' is clickable
+
+2018-01-04 18:19:53 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Button Menu - no link/Text Text Button Button Menu Link 3' is clickable
+
+2018-01-04 18:19:53 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-01-04 18:19:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Buttons Page/Composite Link with Image" classname="Test Cases/Buttons Page/Composite Link with Image" status="PASSED">
+         <system-out><![CDATA[2018-01-04 18:19:53 - [TEST_CASE][PASSED] - Test Cases/Buttons Page/Composite Link with Image: Test Cases/Buttons Page/Composite Link with Image
+
+2018-01-04 18:19:53 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:19:57 - [MESSAGE][PASSED] - Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:19:57 - [TEST_STEP][PASSED] - verifyTextNotPresent: Text '*Server Error in*' is not present on page
+
+2018-01-04 18:19:58 - [MESSAGE][PASSED] - Text '*Server Error in*' is not present on page
+
+2018-01-04 18:19:58 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Composite Link -Image/Composite Link with image' is present
+
+2018-01-04 18:19:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:19:58 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Composite Link -Image/Composite Link with image' is present
+
+2018-01-04 18:19:58 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Composite Link -Image/Composite Link with image' is clickable
+
+2018-01-04 18:19:58 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Composite Link -Image/Composite Link with image' is clickable
+
+2018-01-04 18:19:58 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Composite Link -Image/Error Image' is present
+
+2018-01-04 18:19:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:19:58 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Composite Link -Image/Error Image' is present
+
+2018-01-04 18:19:58 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Composite Link -Image/Composite link button Dont click me' is present
+
+2018-01-04 18:19:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:19:58 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Composite Link -Image/Composite link button Dont click me' is present
+
+2018-01-04 18:19:58 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Composite Link -Image/Composite link button Dont click me' is clickable
+
+2018-01-04 18:19:58 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Composite Link -Image/Composite link button Dont click me' is clickable
+
+2018-01-04 18:19:58 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-01-04 18:19:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Buttons Page/Image Button in Toolbar" classname="Test Cases/Buttons Page/Image Button in Toolbar" status="PASSED">
+         <system-out><![CDATA[2018-01-04 18:19:58 - [TEST_CASE][PASSED] - Test Cases/Buttons Page/Image Button in Toolbar: Test Cases/Buttons Page/Image Button in Toolbar
+
+2018-01-04 18:19:58 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:20:03 - [MESSAGE][PASSED] - Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:20:03 - [TEST_STEP][PASSED] - verifyTextNotPresent: Text '*Server Error in*' is not present on page
+
+2018-01-04 18:20:03 - [MESSAGE][PASSED] - Text '*Server Error in*' is not present on page
+
+2018-01-04 18:20:03 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Image Button - Toolbar/Image Button Toolbar' is present
+
+2018-01-04 18:20:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:20:03 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Image Button - Toolbar/Image Button Toolbar' is present
+
+2018-01-04 18:20:03 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Image Button - Toolbar/Image Button Toolbar' is clickable
+
+2018-01-04 18:20:03 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Image Button - Toolbar/Image Button Toolbar' is clickable
+
+2018-01-04 18:20:03 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-01-04 18:20:03 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Buttons Page/Score Button-toolbar" classname="Test Cases/Buttons Page/Score Button-toolbar" status="PASSED">
+         <system-out><![CDATA[2018-01-04 18:20:03 - [TEST_CASE][PASSED] - Test Cases/Buttons Page/Score Button-toolbar: Test Cases/Buttons Page/Score Button-toolbar
+
+2018-01-04 18:20:03 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:20:08 - [MESSAGE][PASSED] - Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:20:08 - [TEST_STEP][PASSED] - verifyTextNotPresent: Text '*Server Error in*' is not present on page
+
+2018-01-04 18:20:08 - [MESSAGE][PASSED] - Text '*Server Error in*' is not present on page
+
+2018-01-04 18:20:08 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Score Button - toolbar/Toolbar Button 1' is present
+
+2018-01-04 18:20:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:20:08 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Score Button - toolbar/Toolbar Button 1' is present
+
+2018-01-04 18:20:08 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Score Button - toolbar/Toolbar Button 1' is clickable
+
+2018-01-04 18:20:08 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Score Button - toolbar/Toolbar Button 1' is clickable
+
+2018-01-04 18:20:08 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-01-04 18:20:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Buttons Page/Score Button" classname="Test Cases/Buttons Page/Score Button" status="PASSED">
+         <system-out><![CDATA[2018-01-04 18:20:08 - [TEST_CASE][PASSED] - Test Cases/Buttons Page/Score Button: Test Cases/Buttons Page/Score Button
+
+2018-01-04 18:20:08 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:20:12 - [MESSAGE][PASSED] - Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:20:12 - [TEST_STEP][PASSED] - verifyTextNotPresent: Text '*Server Error in*' is not present on page
+
+2018-01-04 18:20:12 - [MESSAGE][PASSED] - Text '*Server Error in*' is not present on page
+
+2018-01-04 18:20:12 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Score Button/Button 1' is present
+
+2018-01-04 18:20:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:20:13 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Score Button/Button 1' is present
+
+2018-01-04 18:20:13 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Score Button/Button 1' is clickable
+
+2018-01-04 18:20:13 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Score Button/Button 1' is clickable
+
+2018-01-04 18:20:13 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-01-04 18:20:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Buttons Page/Split Button Menu" classname="Test Cases/Buttons Page/Split Button Menu" status="PASSED">
+         <system-out><![CDATA[2018-01-04 18:20:13 - [TEST_CASE][PASSED] - Test Cases/Buttons Page/Split Button Menu: Test Cases/Buttons Page/Split Button Menu
+
+2018-01-04 18:20:13 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Browser is opened with url: 'http://s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components'
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - verifyTextNotPresent: Text '*Server Error in*' is not present on page
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Text '*Server Error in*' is not present on page
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu - Link Tex' is present
+
+2018-01-04 18:20:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu - Link Tex' is present
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu - Link Tex' is clickable
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu - Link Tex' is clickable
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu - Link text  Arrow button-Open' is present
+
+2018-01-04 18:20:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu - Link text  Arrow button-Open' is present
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu - Link text  Arrow button-Open' is clickable
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu - Link text  Arrow button-Open' is clickable
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu - Link text  Arrow button-Open' is clicked on
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu - Link text  Arrow button-Open' is clicked on
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - verifyElementVisible: Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu dropdown' is visible
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu dropdown' is visible
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu Button Menu Link 1' is present
+
+2018-01-04 18:20:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu Button Menu Link 1' is present
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu Button Menu Link 1' is clickable
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu Button Menu Link 1' is clickable
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu Button Menu Link 2' is present
+
+2018-01-04 18:20:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu Button Menu Link 2' is present
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu Button Menu Link 2' is clickable
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu Button Menu Link 2' is clickable
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu Button Menu Link 3' is present
+
+2018-01-04 18:20:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu Button Menu Link 3' is present
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu Button Menu Link 3' is clickable
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu Button Menu Link 3' is clickable
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu - Link text  Arrow button - Close' is clicked on
+
+2018-01-04 18:20:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu - Link text  Arrow button - Close' is clicked on
+
+2018-01-04 18:20:19 - [TEST_STEP][PASSED] - verifyElementNotVisible: Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu dropdown' is NOT visible
+
+2018-01-04 18:20:20 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Button Components (2)/Split Button Menu/Split Button Menu dropdown' is NOT visible
+
+2018-01-04 18:20:20 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-01-04 18:20:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-01-04 18:19:38 - [TEST_SUITE][PASSED] - Buttons Page: Test Cases/Buttons Page/Split Button Menu]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

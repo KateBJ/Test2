@@ -2,4 +2,59 @@
 <GlobalVariableEntities>
    <description></description>
    <tag></tag>
+   <GlobalVariableEntity>
+      <description>722.25.buttons page</description>
+      <initValue>'s722.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components.aspx'</initValue>
+      <name>G_url_1a</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>726.25. buttons page</description>
+      <initValue>'s726.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components.aspx'</initValue>
+      <name>G_url_2a</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>807.25. butoons page</description>
+      <initValue>'s807.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components.asp'</initValue>
+      <name>G_url_3a</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>811.25.buttons page</description>
+      <initValue>'s811.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components.aspx'</initValue>
+      <name>G_url_4a</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>813.25.buttons page</description>
+      <initValue>'s813.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components.aspx'</initValue>
+      <name>G_url_5a</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>821.25.buttons page</description>
+      <initValue>'s821.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components.aspx'</initValue>
+      <name>G_url_6a</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>822.25.buttons page</description>
+      <initValue>'s822.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components.aspx'</initValue>
+      <name>G_url_7a</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>823.25.buttons page</description>
+      <initValue>'s823.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components.aspx'</initValue>
+      <name>G_url_8a</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>824.25.buttons page</description>
+      <initValue>'s824.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components.aspx'</initValue>
+      <name>G_url_9a</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>825.25.buttons page</description>
+      <initValue>'s825.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components.aspx'</initValue>
+      <name>G_url_10a</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>826.25.buttons page</description>
+      <initValue>'s826.bootstrapui.v25.scoreqa.brainjocks.com/en/selenium-kitchen-sink/button-components.aspx'</initValue>
+      <name>G_url_11a</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
