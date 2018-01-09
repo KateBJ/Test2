@@ -11,7 +11,11 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
+<<<<<<< HEAD
          <testSuiteEntity>Test Suites/Buttons Page (en)</testSuiteEntity>
+=======
+         <testSuiteEntity>Test Suites/Buttons Page</testSuiteEntity>
+>>>>>>> branch 'NewBranch' of https://github.com/KateBJ/test2.git
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
