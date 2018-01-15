@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Tree_Glyph_D690A17D6601483</name>
+   <tag></tag>
+   <elementGuidId>35b89f9e-87e6-4edb-b2a0-be265097d9af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[count(. | //*[@src = '/sitecore/shell/themes/standard/images/treemenu_collapsed.png']) = count(//*[@src = '/sitecore/shell/themes/standard/images/treemenu_collapsed.png'])][count(. | //*[@id = 'Tree_Glyph_D690A17D66014831B3D4328238C7B190']) = count(//*[@id = 'Tree_Glyph_D690A17D66014831B3D4328238C7B190'])][count(. | //*[@class = 'scContentTreeNodeGlyph']) = count(//*[@class = 'scContentTreeNodeGlyph'])][count(. | id(&quot;Tree_Glyph_D690A17D66014831B3D4328238C7B190&quot;)) = count(id(&quot;Tree_Glyph_D690A17D66014831B3D4328238C7B190&quot;))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/sitecore/shell/themes/standard/images/treemenu_collapsed.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Tree_Glyph_D690A17D66014831B3D4328238C7B190</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>scContentTreeNodeGlyph</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>border</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Tree_Glyph_D690A17D66014831B3D4328238C7B190&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

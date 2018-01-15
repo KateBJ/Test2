@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_scContentIframeId0_1</name>
+   <tag></tag>
+   <elementGuidId>71b2d2d6-5ef9-460e-8e6a-fb1ebbc3a4f1</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>scContentIframeId0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scrolling</name>
+      <type>Main</type>
+      <value>auto</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dialog-content ui-widget-content ui-dialog-normal</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/sitecore/shell/default.aspx?xmlcontrol=Sitecore.Shell.Applications.Dialogs.SelectRenderingDatasource&amp;hdl=E435A27D972C47E6808B96243165B0E8&amp;ro=sitecore%3A%2F%2Fmaster%2F%7BC24289AF-4C28-43DA-BC44-C089C29F7A25%7D%3Flang%3Den%26ver%3D1&amp;fo=sitecore%3A%2F%2Fmaster%2F%7BC24289AF-4C28-43DA-BC44-C089C29F7A25%7D%3Flang%3Den%26ver%3D1&amp;sr=1&amp;ic=BusinessV2%2F32x32%2Fcabinet_open.png&amp;txt=Select%20the%20content%20that%20you%20want%20to%20associate%20with%20the%20rendering%20and%20use%20as%20the%20data%20source.&amp;ti=Select%20the%20Associated%20Content&amp;bt=OK&amp;rt=Id&amp;dsDN=Content%20Spot&amp;dsRoots=sitecore%3A%2F%2Fmaster%2F%7BC24289AF-4C28-43DA-BC44-C089C29F7A25%7D%3Flang%3Den%26ver%3D1%7Csitecore%3A%2F%2Fmaster%2F%7BB42DA639-D67D-4E6A-B8A9-E7F4C81BA695%7D%3Flang%3Den%26ver%3D1%7Csitecore%3A%2F%2Fmaster%2F%7B25378F64-04BD-4138-B677-15ADDF127165%7D%3Flang%3Den%26ver%3D1%7Csitecore%3A%2F%2Fmaster%2F%7BFB8C641F-196B-48CF-87D3-E28B31100E71%7D%3Flang%3Den%26ver%3D1&amp;clang=en</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frameborder</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scContentIframeId0&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_tests/iframe_jqueryModalDialogsFrame</value>
+   </webElementProperties>
+</WebElementEntity>

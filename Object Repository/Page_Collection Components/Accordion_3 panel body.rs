@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Accordion_3 panel body</name>
+   <tag></tag>
+   <elementGuidId>e07b02ce-187a-43db-b383-324a76cba220</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>score-content-spot</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Deep linked: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet lacus dignissim, cursus sapien fringilla, aliquam sapien. Morbi sed quam nisl. Fusce ante arcu, tempor non tincidunt vel, finibus eu diam. Sed in dignissim risus, sed condimentum nunc. Morbi vitae orci euismod, varius turpis in, sollicitudin odio. Etiam facilisis eleifend orci, sed sollicitudin nibh imperdiet id. Fusce sed est nunc. Integer posuere ac odio a gravida. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum in faucibus odio. Cras porta lobortis enim sit amet aliquet.
+</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse-accordion-deep-linked&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;score-content-spot&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

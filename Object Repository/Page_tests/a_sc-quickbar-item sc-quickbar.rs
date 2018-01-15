@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_sc-quickbar-item sc-quickbar</name>
+   <tag></tag>
+   <elementGuidId>cf2ad915-0cd2-4346-aa98-f8da692e5858</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sc-id</name>
+      <type>Main</type>
+      <value>QuickInsert-Component</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sc-click</name>
+      <type>Main</type>
+      <value>trigger:button:click</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sc-command</name>
+      <type>Main</type>
+      <value>AddComponent</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sc-ispressed</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-quickbar-item sc-quickbar-button sc_QuickbarButton_65 data-sc-registered</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add a new component.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sc-pagecodescriptfilename</name>
+      <type>Main</type>
+      <value>/sitecore/shell/client/Sitecore/ExperienceEditor/Commands/AddComponent.js</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>ispressed: isPressed, visible: isVisible, click: click, command: command, enabled: isEnabled</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sc-require</name>
+      <type>Main</type>
+      <value>/-/speak/v1/ribbon/QuickbarButton.js,/sitecore/shell/client/Sitecore/ExperienceEditor/Commands/AddComponent.js</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sc sc-fullWidth&quot;]/div[@class=&quot;sc-list&quot;]/div[@class=&quot;container-narrow&quot;]/div[@class=&quot;sc-pageeditbar sc_PageEditBar_473 data-sc-registered&quot;]/nav[@class=&quot;sc-quickbar sc_QuickBar_329 data-sc-registered&quot;]/a[@class=&quot;sc-quickbar-item sc-quickbar-button sc_QuickbarButton_65 data-sc-registered&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_tests/iframe_scWebEditRibbon</value>
+   </webElementProperties>
+</WebElementEntity>
